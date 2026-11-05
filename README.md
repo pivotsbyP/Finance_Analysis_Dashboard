@@ -16,8 +16,8 @@ Tools & Technologies Used
 - Developed DAX measures for financial metrics and YoY comparisons.
 - Built dynamic filters and interactive visualizations.
 - Implemented detailed transaction-level views and drill-down analysis.
-Business Questions Addressed
 
+Business Questions Addressed
 - Which customer segments contribute the most to transaction value?
 - Which states have the highest financial performance?
 - How are transaction amounts changing month over month?
